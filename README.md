@@ -1,5 +1,5 @@
 # AI-HVAC-OPTIMIZATION
-This is the landing page for your project. Make it comprehensive and engaging.
+
 
 Project Title: A bold and clear title.
 
